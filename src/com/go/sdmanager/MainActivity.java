@@ -53,7 +53,7 @@ public class MainActivity extends Activity
 	// private long mCountAction = 0;
 	ArrayList<HashMap<String, Object>> listItems = new ArrayList<HashMap<String, Object>>();
 
-	// MyAdapter mMyAdapter;
+	 MyAdapter mMyAdapter;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState)
